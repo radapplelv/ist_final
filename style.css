@@ -58,6 +58,8 @@ a {
     border: none;
     border-bottom: solid 2px #000;
     border-collapse: collapse;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
     border-radius: 0px;
     margin-bottom: 0;
     overflow: hidden;
