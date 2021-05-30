@@ -57,6 +57,7 @@ a {
     outline: none;
     border: none;
     border-bottom: solid 2px #000;
+    border-collapse: collapse;
     margin-bottom: 0;
     overflow: hidden;
     resize: none;
